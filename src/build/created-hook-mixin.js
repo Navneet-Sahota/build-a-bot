@@ -1,5 +1,3 @@
 export default {
-  created() {
-    console.log('component created!');
-  },
+  created() {},
 };
